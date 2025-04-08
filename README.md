@@ -15,9 +15,6 @@ Student of Computer Science and Intelligent Systems at AGH. Passionate about Pyt
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mat04So&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Mat04So&icon=0&color=0)](https://visitcount.itsvg.in)
 
